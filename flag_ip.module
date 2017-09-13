@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains flag_ip.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function flag_ip_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the flag_ip module.
+    case 'help.page.flag_ip':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Flag IP') . '</p>';
+      return $output;
+
+    default:
+  }
+}

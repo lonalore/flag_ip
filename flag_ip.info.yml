@@ -1,0 +1,7 @@
+name: Flag IP
+type: module
+description: Flag IP
+core: 8.x
+package: Flags
+dependencies:
+  - flag

@@ -1,0 +1,14 @@
+{
+  "name": "drupal/flag_ip",
+  "type": "drupal-module",
+  "description": "Flag IP",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/flag_ip",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/flag_ip",
+    "source": "http://cgit.drupalcode.org/flag_ip"
+  },
+  "require": { }
+}
