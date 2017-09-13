@@ -1,7 +1,7 @@
 Flag IP
 =======
 
-Allow to flag entities for anonymous users using their IP address (instead of Session ID).
+Allow to flag entities for anonymous users using the IP address (instead of Session ID).
 
 ## Dependencies
 
