@@ -1,6 +1,6 @@
 name: Flag IP
 type: module
-description: Flag IP
+description: Allow to flag entities for anonymous users using the IP address (instead of Session ID)
 core: 8.x
 package: Flags
 dependencies:
