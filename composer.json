@@ -1,7 +1,7 @@
 {
   "name": "drupal/flag_ip",
   "type": "drupal-module",
-  "description": "Flag IP",
+  "description": "Allow to flag entities for anonymous users using their IP addresses (instead of Session ID).",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
   "homepage": "https://www.drupal.org/project/flag_ip",
